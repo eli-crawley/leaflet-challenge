@@ -13,7 +13,7 @@ This project displays earthquake data and tectonic plate boundaries on an intera
 1. Clone the repository:
 ```bash
 git clone https://github.com/eli-crawley/leaflet-challenge
-cd earthquake-tectonic-map
+cd leaflet-challenge
 ```
 2. Open the index.html file in a web browser.
 
@@ -44,7 +44,7 @@ The map also displays tectonic plate boundaries using GeoJSON data. These are sh
 A color legend is provided in the bottom-right corner to help users interpret the earthquake depths with corresponding colors.
 
 ## Example Screenshot
-![Earthquake Map](images\EarthquakeMap.jpg)
+![Earthquake Map](images/EarthquakeMap.jpg)
 
 # References
 References
