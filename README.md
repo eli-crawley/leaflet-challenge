@@ -44,7 +44,7 @@ The map also displays tectonic plate boundaries using GeoJSON data. These are sh
 A color legend is provided in the bottom-right corner to help users interpret the earthquake depths with corresponding colors.
 
 ## Example Screenshot
-![Earthquake Map](images/EarthquakeMap.jpg)
+![Earthquake Map](Images/EarthquakeMap.jpg)
 
 # References
 References
